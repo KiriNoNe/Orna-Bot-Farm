@@ -1,0 +1,3 @@
+*.png
+!templates/battle_anchor.png
+!templates/continue_button.png
